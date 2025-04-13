@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d786a04b-2d12-470b-905d-5501a0aad378)### Hi there 👋
+### Hi there 👋
 👋 Hi, I'm @ALGOREX-PH, The King of Algorithms!
 
 ⚡ I am future HTML/CSS SPECIALIST
