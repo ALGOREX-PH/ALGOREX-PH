@@ -8,5 +8,5 @@
 🔭 I'm looking for the solution in the program "Hello World" (Pls Help me!)
 
 
-[![committers.top badge](https://user-badge.committers.top/philippines/ALGOREX-PH.svg)](https://user-badge.committers.top/philippines/USERNAME)
+[![committers.top badge](https://user-badge.committers.top/philippines/ALGOREX-PH.svg)](https://user-badge.committers.top/philippines/ALGOREX-PH)
 
