@@ -7,4 +7,4 @@
 
 🔭 I'm looking for the solution in the program "Hello World" (Pls Help me!)
 
-[![committers.top badge](https://user-badge.committers.top/philippines_private/USERNAME.svg)](https://user-badge.committers.top/philippines_private/ALGOREX-PH)
+[![committers.top badge](https://user-badge.committers.top/philippines_private/ALGOREX-PH.svg)](https://user-badge.committers.top/philippines_private/ALGOREX-PH)
