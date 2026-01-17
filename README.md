@@ -3,7 +3,7 @@
 
 ⚡ I am future HTML/CSS SPECIALIST
 
-💞️ HTML is a Programming Language
+💞️ Smart enough to build the future of AI, dumb enough to fall for you
 
 🔭 I'm looking for the solution in the program "Hello World" (Pls Help me!)
 
