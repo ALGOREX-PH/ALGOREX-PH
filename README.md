@@ -1,7 +1,7 @@
 ### Hi there 👋
 👋 Hi, I'm @ALGOREX-PH, The King of Algorithms!
 
-⚡ I am future HTML/CSS SPECIALIST
+⚡ Code like destiny chose me
 
 💞️ Smart enough to build the future of AI, dumb enough to fall for you
 
